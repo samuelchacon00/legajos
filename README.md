@@ -17,4 +17,4 @@ Tiene otro que es para combinar los archivos por orden de llegada, a veces cuand
 Tiene una casilla de seleccion que dice "borrar todo", si se estan escaneando unos legajos y justo se ecanea 170.253-1 el que le sigue es 170.254-x, y como el 170 sigue siendo igual borra todo hasta un '.' dejando 170. , si la casilla esta seleccionada borra todo despues de ingresar un legajo.
 
 <p align="center">
-<img src="https://github.com/samuelchacon00/PI_PT05_1/blob/d1123f489f5fb086950b51c4a2f05bc4bdd05be6/src/arbol.png"  height=400></p>
+<img src="https://github.com/samuelchacon00/legajos/tree/7c6a585cb0191a6df352b2d02e1c79dc5899450e/src"  height=400></p>
