@@ -19,9 +19,6 @@ cantidad="conteo.txt"
 #   las rutinas son las funciones que son llamadas
 #   cuando un evento ocurre y ese evento es un boton que ha sido presionado
 
-
-
-
 #   ---rutina
 #   funcion que se utiliza para ejecutar la funcion ingresar
 #   cuando se aprieta el boton o cuando se presiona enter
@@ -137,7 +134,7 @@ def ver_escaneos():
         mensaje2="Hay "+str(copias)+" escaneos"    
         info2.config(text=mensaje2,foreground="blue")
     else:
-        mensaje2="el campo \"Caja\" esta vacio!"
+        mensaje2="el directorio \""+nombre_caja+"\" no existe!"
         info2.config(text=mensaje2,foreground="red")
 
 #   ---rutina--
